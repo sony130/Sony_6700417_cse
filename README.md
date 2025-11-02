@@ -25,5 +25,5 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 ## ⚙ Installation and Setup
 
 1. Clone this repository:
-   ```bash
-https://github.com/sony130/Sony_6700417_cse.git
+   ```bash https://github.com/sony130/Sony_6700417_cse.git
+
